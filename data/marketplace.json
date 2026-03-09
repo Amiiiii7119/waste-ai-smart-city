@@ -1,0 +1,7 @@
+{
+  "items": [
+    { "id": 1, "name": "Eco Bag", "points": 100 },
+    { "id": 2, "name": "Reusable Bottle", "points": 150 },
+    { "id": 3, "name": "Compost Kit", "points": 300 }
+  ]
+}

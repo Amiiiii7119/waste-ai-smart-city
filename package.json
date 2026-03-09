@@ -1,0 +1,7 @@
+{
+  "name": "wasteai",
+  "private": true,
+  "scripts": {
+ "dev": "ts-node-dev server.ts"
+}
+}
